@@ -1,4 +1,5 @@
-page 0 
+PAGE       :
+ 0 
  
  
  
@@ -9,7 +10,8 @@ The Land 1 and People "INDIA is the cradle of the human race, the birth       pl
  
  
 
-page 1 
+PAGE       :
+ 1 
  
  
  
@@ -20,7 +22,8 @@ north, longitudes68°7' and 97°25' east, and mea sures about 3,214 km fromn nor
  
  
 
-page 2 
+PAGE       :
+ 2 
  
  
  
@@ -31,7 +34,8 @@ page 2
  
  
 
-page 3 
+PAGE       :
+ 3 
  
  
  
@@ -42,7 +46,8 @@ generally from 915 to 1,220 metres, rising in places to over 2,440 metres. Betwe
  
  
 
-page 4 
+PAGE       :
+ 4 
  
  
  
@@ -53,7 +58,8 @@ longing to the Deccan Trap volcanism and younger Quaternary sediments. River Sys
  
  
 
-page 5 
+PAGE       :
+ 5 
  
  
  
@@ -64,7 +70,8 @@ rathi, which used to be the main course in the past, takes off, while the Padma 
  
  
 
-page 6 
+PAGE       :
+ 6 
  
  
  
@@ -75,7 +82,8 @@ area of India. Next to it is the Krishna basin in the region and the Mahanadi is
  
  
 
-page 7 
+PAGE       :
+ 7 
  
  
  
@@ -86,7 +94,8 @@ nar; (ii) east flowingriversbetweenPennarand Kanyakumari; (iv) area of Inland dr
  
  
 
-page 8 
+PAGE       :
+ 8 
  
  
  
@@ -97,7 +106,8 @@ The Himalayan states, being more temperate, ex perience two additional seasons: 
  
  
 
-page 9 
+PAGE       :
+ 9 
  
  
  
@@ -108,7 +118,8 @@ The western Himalayan region extends from Kash mir to Kumaon. Its temperatezone 
  
  
 
-page 10 
+PAGE       :
+ 10 
  
  
  
@@ -119,7 +130,8 @@ Arunachal Pradesh through Sikkim, Meghalaya and Nagaland and the Deccan Peninsul
  
  
 
-page 11 
+PAGE       :
+ 11 
  
  
  
@@ -130,7 +142,8 @@ a century old committed to inventorying the fau nal resources of the country rig
  
  
 
-page 12 
+PAGE       :
+ 12 
  
  
  
@@ -141,7 +154,8 @@ from freshwater, 3,939 species from estuarine and 5,747 species from mangrove ec
  
  
 
-page 13 
+PAGE       :
+ 13 
  
  
  
@@ -152,7 +166,8 @@ The Census of India 2001, was historic and epoch making, being the first census 
  
  
 
-page 14 
+PAGE       :
+ 14 
  
  
  
@@ -163,7 +178,8 @@ One of the important indicesof population concen tration is the density of popul
  
  
 
-page 15 
+PAGE       :
+ 15 
  
  
  
@@ -174,7 +190,8 @@ erate. Prior to 1991,Censusof India treated children below five years of age as 
  
  
 
-page 16 
+PAGE       :
+ 16 
  
  
  
@@ -185,7 +202,8 @@ Fertility and Mortality Rates The fertilityrate (or Total Fertility Rate TFR) of
  
  
 
-page 17 
+PAGE       :
+ 17 
  
  
  
